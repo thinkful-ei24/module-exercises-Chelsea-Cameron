@@ -1,3 +1,4 @@
+/* global cuid */
 'use strict';
 
 //Item IIFE - Item module that contains functions to validate and create items
